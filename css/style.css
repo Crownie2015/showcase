@@ -151,12 +151,20 @@ aside#sidebar .quote input, aside#sidebar .quote textarea {
     padding: 5px;
 }
 
-aside#sidebar p a {
+aside#sidebar h3 a {
     color:#ffffff;
 }
-aside#sidebar p a:hover {
+aside#sidebar h3 a:hover {
     color: #e8491d;
 }
+
+
+aside#sidebar h3 img {
+    width: 30px;
+    padding-left: 10px;
+    vertical-align: middle;
+}
+
 
 /* Main-col */
 article#main-col {
