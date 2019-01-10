@@ -1,0 +1,10 @@
+GITHUB
+
+Eerst nieuwe repository maken op github.
+
+Op de lokale map het volgende bestand aanpassen!!
+.git/config
+
+in plaats van url = https://github.com/Crownie2015/TutorialWebsiteDesign.git
+veranderen naar : url = ssh://git@github.com/Crownie2015/TutorialWebsiteDesign.git
+
