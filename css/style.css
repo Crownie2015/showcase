@@ -151,6 +151,13 @@ aside#sidebar .quote input, aside#sidebar .quote textarea {
     padding: 5px;
 }
 
+aside#sidebar p a {
+    color:#ffffff;
+}
+aside#sidebar p a:hover {
+    color: #e8491d;
+}
+
 /* Main-col */
 article#main-col {
     float: left;
